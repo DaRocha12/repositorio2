@@ -28,13 +28,13 @@ Esto es un parrafo afknbdañfbkadnñbkdnabkfnbañfdlkbdfbnfkbnbkfnbñlfnbñdfnbf
 
 alkrbaofdibjafdbijafbijafdñibjafdñblijdñfbijafdñbijafobjsfb`pojapogjafdpóadfpobkdaf´bsfdgbfb´lkaf´bplamfdb´ñladfbp´daofbka´fdobkd´fobkd´fobqokgaep´fdobksfdñ´lbsdñlfbdsfñlbjdf´ñlkbjfds´blkdsfb´lñfdkb´ñfdslkbs´fdñlbsfdñlkbjsdfblkj.
 
-``
+```
  <html>
  <head>
  <body>
     <p> Esto es un codigo en HTML </p>
  <body>
  </html>
-``
+```
 
 [link] (https://github.com/DaRocha12/repositorio2 "Enlace a la web del cole")
