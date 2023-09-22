@@ -38,3 +38,4 @@ alkrbaofdibjafdbijafbijafdñibjafdñblijdñfbijafdñbijafobjsfb`pojapogjafdpóad
 ```
 
 [link](https://github.com/DaRocha12/repositorio2 "Enlace a la web del cole")
+![Imagen gripau](https://github.com/DaRocha12/repositorio2/blob/main/gripau.jpg "Titulo opcional")
