@@ -37,4 +37,4 @@ alkrbaofdibjafdbijafbijafdñibjafdñblijdñfbijafdñbijafobjsfb`pojapogjafdpóad
  </html>
 ```
 
-[link] (https://github.com/DaRocha12/repositorio2 "Enlace a la web del cole")
+[link](https://github.com/DaRocha12/repositorio2 "Enlace a la web del cole")
