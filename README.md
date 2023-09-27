@@ -39,3 +39,8 @@ alkrbaofdibjafdbijafbijafdñibjafdñblijdñfbijafdñbijafobjsfb`pojapogjafdpóad
 
 [link](https://github.com/DaRocha12/repositorio2 "Enlace a la web del cole")
 ![Imagen gripau](https://github.com/DaRocha12/repositorio2/blob/main/gripau.jpg "Titulo opcional")
+
+|Titulo | Alineacion | Precios|
+|----------|:-----------:|----------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
